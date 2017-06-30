@@ -2,7 +2,7 @@
 <ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:noNamespaceSchemaLocation="ehcache.xsd">
 
-    <diskStore path="E:/Projects/nginxTest_fir/ehcache" />
+    <diskStore path="E:/Projects/nginxCase_fir/ehcache" />
 
     <cacheManagerPeerProviderFactory
             class="net.sf.ehcache.distribution.RMICacheManagerPeerProviderFactory"
