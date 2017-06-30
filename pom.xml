@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>nginxProjects</groupId>
-  <artifactId>nginxTest_fir</artifactId>
+  <artifactId>nginxCase_fir</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>nginxTest_fir Maven Webapp</name>
+  <name>nginxCase_fir Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -95,6 +95,6 @@
 
 
   <build>
-    <finalName>nginxTest_fir</finalName>
+    <finalName>nginxCase_fir</finalName>
   </build>
 </project>

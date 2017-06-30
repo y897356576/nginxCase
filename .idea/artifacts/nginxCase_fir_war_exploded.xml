@@ -1,10 +1,10 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="nginxTest_fir:war exploded">
-    <output-path>$PROJECT_DIR$/target/nginxTest_fir</output-path>
+  <artifact type="exploded-war" name="nginxCase_fir:war exploded">
+    <output-path>$PROJECT_DIR$/target/nginxCase_fir</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="nginxTest_fir" />
+          <element id="module-output" name="nginxCase_fir" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.9.RELEASE" />
@@ -26,9 +26,9 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/target/nginxTest_fir/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/nginxCase_fir/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="nginxTest_fir/web/Web" />
+      <element id="javaee-facet-resources" facet="nginxCase_fir/web/Web" />
     </root>
   </artifact>
 </component>

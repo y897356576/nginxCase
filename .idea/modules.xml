@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/nginxTest_fir.iml" filepath="$PROJECT_DIR$/nginxTest_fir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nginxCase_fir.iml" filepath="$PROJECT_DIR$/nginxCase_fir.iml" />
     </modules>
   </component>
 </project>
